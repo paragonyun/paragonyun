@@ -3,7 +3,7 @@
 👨‍💻 Studying Machine Learning and Deep Learning dreaming a Data Analyst and ML Engineer  
 📞 If you want contact me! Please click the link [here](https://linktr.ee/paragonyun)!  
 
-
+📊 빅데이터 분석 연합동아리 BITAmin 8기
 
 <div align=center>
 
