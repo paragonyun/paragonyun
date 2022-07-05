@@ -1,9 +1,7 @@
-# Hello!!! 
-### Hongik University
-### Seoul
-### Economics / Business
-### Interested in... CV, NLP, Audio
-
+### Hello!!!👋 Welcome to my codes!!
+  
+👨‍💻 Studying Machine Learning and Deep Learning dreaming a Data Analyst and ML Engineer  
+📞 If you want contact me! Please click the link [here](https://linktr.ee/paragonyun)!  
 
 
 
