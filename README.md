@@ -8,7 +8,7 @@
   
 :mag: Intereted in CV, NLP, Audio 
 
-:heavy_exclamation_mark: Nowdays,, I'm Doing... **_one Tabular Data ML Project_, _Flask Study_, _Mdulizing my Jupyter Projects...!_**
+:heavy_exclamation_mark: Nowdays,, I'm Doing... **_one Tabular Data ML Project_, _Flask Study_, _Modulizing my Jupyter Projects...!_**
 
 <div align=center>
 
