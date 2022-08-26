@@ -1,3 +1,6 @@
+<img src = "https://user-images.githubusercontent.com/83996346/186911258-8a8c12b3-1f6a-408a-91c1-56ac4fcbb95c.gif" width = "100%">
+
+
 <h1 align="center">Hi 👋, I'm Jeong SeongYun</h1>
 
 🌱 I’m currently learning **Flask, TFX**
