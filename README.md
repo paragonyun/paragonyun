@@ -2,6 +2,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Jeong SeongYun</h1>
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparagonyun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hello+%21%21&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 🌱 I’m currently learning **Flask, TFX**
 
@@ -20,16 +25,9 @@
 
 <h3 align = "center">Git Hub Stats</h3>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paragonyun&show_icons=true&theme=dark&locale=en&layout=compact" alt="paragonyun" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paragonyun&show_icons=true&theme=dark&locale=en" alt="paragonyun" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=paragonyun&theme=dark" alt="paragonyun" /></p>
-
-
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparagonyun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hello+%21%21&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paragonyun&theme=dark" alt="paragonyun" /></p>
