@@ -25,8 +25,7 @@
 
 <h3 align = "center">Git Hub Stats</h3>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paragonyun&show_icons=true&theme=dark&locale=en&layout=compact" alt="paragonyun" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paragonyun&show_icons=true&theme=dark&locale=en&layout=compact" alt="paragonyun" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paragonyun&show_icons=true&theme=dark&locale=en" alt="paragonyun" /></p>
 
