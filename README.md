@@ -8,7 +8,7 @@
 
 </div>
 
-🌱 I’m currently learning **Flask, TFX**
+🌱 I’m currently learning **TFX, Docker**
 
 📞 How to reach me **paragonyun@naver.com** or click the link [here](https://linktr.ee/paragonyun)!  
   
