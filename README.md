@@ -14,8 +14,8 @@
   
 👨‍💻 Studying Machine Learning and Deep Learning dreaming a Data Analyst and ML Engineer  
   
-📊 빅데이터 분석 연합동아리 BITAmin 8기  
-👨‍💻 GDSC Hongik 1기  
+📊 빅데이터 분석 연합동아리 BITAmin 8기 Member
+💻 GDSC Hongik 1기 AI / ML Member 
 :school: Hongik University Economics & Business
   
 :mag: Intereted in CV, NLP, Audio 
