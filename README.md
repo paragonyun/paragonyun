@@ -8,7 +8,7 @@
 
 </div>
 
-🌱 I’m currently learning **Docker**
+🌱 I’m currently learning **FastAPI**
 
 📞 How to reach me **paragonyun@naver.com** or click the link [here](https://linktr.ee/paragonyun)!  
   
