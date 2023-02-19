@@ -8,7 +8,7 @@
 
 </div>
 
-🌱 I’m currently learning **FastAPI**
+🌱 I’m currently learning **NLP**
 
 📞 How to reach me **paragonyun@naver.com** or click the link [here](https://linktr.ee/paragonyun)!  
   
@@ -16,6 +16,8 @@
   
 📊 빅데이터 분석 연합동아리 BITAmin 8기 Member  
 💻 GDSC Hongik 1기 AI / ML Member  
+📚 GDSC Open Community Education TF Member (AI/ML Curriculum Creator)
+
 :school: Hongik University Economics & Business  
   
 :mag: Intereted in CV, NLP, Audio  
